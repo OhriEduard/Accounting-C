@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1683032068 source:d:\coding\coduri c\proiect programare\proiect\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+
+1683300199 source:c:\users\ohrin\onedrive\desktop\proiect\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,10 @@
+23,13/04/2022,piese de masini
+23,13/04/2022,piese de masini
+23,13/04/2022,piese de masini
+23,13/04/2022,piese de masini
+23,13/04/2022,piese de masini
+23,13/04/2022,piese de masini
+23,13/04/2022,piese de masini
+1600,30/12/2000,cartofi
+789,30/12/2000,rosii
+1800,10/4/2009,vinete
